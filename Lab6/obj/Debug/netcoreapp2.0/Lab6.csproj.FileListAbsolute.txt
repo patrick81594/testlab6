@@ -1,0 +1,11 @@
+C:\Users\patrick\source\repos\Lab6\Lab6\bin\Debug\netcoreapp2.0\Lab6.deps.json
+C:\Users\patrick\source\repos\Lab6\Lab6\bin\Debug\netcoreapp2.0\Lab6.runtimeconfig.json
+C:\Users\patrick\source\repos\Lab6\Lab6\bin\Debug\netcoreapp2.0\Lab6.runtimeconfig.dev.json
+C:\Users\patrick\source\repos\Lab6\Lab6\bin\Debug\netcoreapp2.0\Lab6.dll
+C:\Users\patrick\source\repos\Lab6\Lab6\bin\Debug\netcoreapp2.0\Lab6.pdb
+C:\Users\patrick\source\repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\patrick\source\repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\patrick\source\repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\patrick\source\repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfo.cs
+C:\Users\patrick\source\repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.dll
+C:\Users\patrick\source\repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.pdb
